@@ -1,0 +1,7 @@
+# For reference only
+adafruit-circuitpython-time
+adafruit-circuitpython-analogio
+adafruit-circuitpython-board
+adafruit-circuitpython-usb_midi
+adafruit-circuitpython-simpleio
+adafruit_midi
